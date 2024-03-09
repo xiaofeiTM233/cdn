@@ -3,6 +3,6 @@
 
 使用vercel搭建，请支持他们！
 
-[cdn.afox.tk](https://cdn.afox.tk)
+[cdn.bwiki.xyz](https://cdn.bwiki.xyz)
 
 [cdn.hitfun.top](https://cdn.hitfun.top)
